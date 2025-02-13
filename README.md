@@ -8,3 +8,6 @@ Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas infor
 Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 Entrega – Possui status e código de rastreio;
 Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert e suba seu projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de projetos no GitHub!
+
+
+![image](https://github.com/user-attachments/assets/4cb8bd68-bb3d-41a3-b2eb-6dd18f1eeff6)
